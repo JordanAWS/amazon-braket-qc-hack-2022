@@ -1,5 +1,3 @@
-# amazon-braket-qc-hack-2022
-
 # Welcome to the Amazon Braket challenge for QC Hack 2022.
 
 Here is where you can find official information about the Amazon Braket challenge [QCHack 2022](https://www.qchack.io/). We are excited to see the creative solutions you come up with!
